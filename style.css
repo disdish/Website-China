@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  text-align: center;
+  font-size: 350;
+  color: indianred; 
+  background: lightyellow; 
+  font-family: "Times New Roman";
+}
